@@ -1,6 +1,6 @@
 #  Important Questions Generator (Telegram Bot)
 
-Generate key / important questions automatically—straight from your Telegram client! Perfect for quick quizzes, revision, or keeping your study game strong.
+Generate key / important questions with answers automatically—straight from your Telegram client when you send the notes! Perfect for quick quizzes, revision, or keeping your study game strong.
 
 ---
 
@@ -15,6 +15,10 @@ Generate key / important questions automatically—straight from your Telegram c
 Tired of manually selecting or brainstorming important questions? Let the bot do the heavy lifting—so you can focus on learning.
 
 ---
+
+##  WORKFLOW
+
+![This is the complete workflow for the telegram bot which generates imp questions when provided with notes](C:\Users\yashwanth\Pictures\Screenshots)
 
 ##  Quick Start
 
