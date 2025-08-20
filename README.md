@@ -18,7 +18,7 @@ Tired of manually selecting or brainstorming important questions? Let the bot do
 
 ##  WORKFLOW
 
-![This is the complete workflow for the telegram bot which generates imp questions when provided with notes](C:\Users\yashwanth\Pictures\Screenshots)
+![This is the complete workflow for the telegram bot which generates imp questions when provided with notes](Screenshot (145).png)
 
 ##  Quick Start
 
