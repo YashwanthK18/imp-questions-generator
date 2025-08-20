@@ -18,7 +18,7 @@ Tired of manually selecting or brainstorming important questions? Let the bot do
 
 ##  WORKFLOW
 Click this to open the ScreenShot of the workflow of the bot which creates imp questions and answers from the notes
-[a link]([https://github.com/YashwanthK18/imp-questions-generator/blob/master/imp-questions-generator.json](https://github.com/YashwanthK18/imp-questions-generator/blob/master/Screenshot%20(145).png))
+[a link](https://github.com/YashwanthK18/imp-questions-generator/blob/master/imp-questions-generator.json](https://github.com/YashwanthK18/imp-questions-generator/blob/master/Screenshot%20(145).png))
 
 ##  Quick Start
 
